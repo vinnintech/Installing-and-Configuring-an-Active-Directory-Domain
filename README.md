@@ -74,4 +74,4 @@ Once we have installed Windows Server, Server Manager will be what will open in 
 - Configured and assigned the IPv4 address
 - Promoted our Server to a Domain Controller
 
-Next Part: 
+Next Part: We'll create users in Powershell by running a script, and then manage the accounts and group policy!
