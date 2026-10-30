@@ -66,6 +66,9 @@ Once we have installed Windows Server, Server Manager will be what will open in 
 
 **Congratulations, you have now installed Active Directory and made it a Domain Controller!**
 
+
+**I am excited to break, fix, and test in this environment!**
+
 ## Summary
 - Used Windows Server to install Active Directory 
 - Configured and assigned the IPv4 address
